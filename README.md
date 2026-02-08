@@ -34,10 +34,14 @@ Um jogo desenvolvido para a feira de ciências da minha escola, criado no **GDev
   - Acerte o maior número de multiplicações possíveis até o tempo acabar.
   - AVISO, SE O JOGO TRAVAR E NENHUM PERSONAGEM VOLTAR PARA A VENDA, CLIQUE NO BOTÃO DE PAUSA E CLIQUE NO **BOTÃO PRETO COM A LETRA R** PARA RESETAR A ANIMAÇÃO, SEU PROGRESSO **NÃO** SERÁ PERDIDO
 
+![GIF KIDS MATH GAME 2](https://github.com/user-attachments/assets/4a4d6b67-b98e-49b5-9e8c-36b3807ef5a0)
+
 > Jogo da memória:
   - Você está jogando jogo da memória, ache os pares de divisões clicando nas cartelas.
   - Se você achar um par, resolva a divisão contida neles na parte inferior a tela e clique no botão amarelo.
   - Acerte a maior quantidade de divisões possíveis.
+
+![GIF KIDS MATH GAME 3](https://github.com/user-attachments/assets/7b18dcb6-379e-416f-8d6e-6f80d139c114)
 
 ## ▶️ Jogar online
 
