@@ -25,6 +25,8 @@ Um jogo desenvolvido para a feira de ciências da minha escola, criado no **GDev
   - Se você acertar a conta, você acerta a cesta de basquete, caso contrário, você erra.
   - Acerte a maior quantidade de contas e cestas possíveis antes do tempo acabar.
 
+![GIF KIDS MATH GAME 1](https://github.com/user-attachments/assets/ddc41632-a5e7-4f71-89dc-d7cc957d1ba7)
+
 > Vendinha:
   - Seu personagem é dono de um mercadinho, seus produtos estão com suas respectivas etiquetas e preços.
   - Um personagem chega no seu mercado e você deve acertar a conta de multiplicação na parte superior da tela.
