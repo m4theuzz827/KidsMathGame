@@ -13,6 +13,8 @@ Um jogo desenvolvido para a feira de ciências da minha escola, criado no **GDev
   - Mercadinho (Multiplicação)
   - Jogo da memória (Divisão)
 
+<img width="1919" height="1079" alt="Captura de tela 2026-02-08 111430" src="https://github.com/user-attachments/assets/c9d576df-96c3-439d-b39c-ef3d3bcb3ec5" />
+
 ---
 
 ## 🕹️ Como funciona / Como jogar
